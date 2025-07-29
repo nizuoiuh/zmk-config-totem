@@ -70,6 +70,7 @@
 
         base_layer {
             // ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+            display-name ="Base";
 
             label = "BASE";
 
@@ -96,6 +97,7 @@
 
         nav_layer {
             // ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+            display-name ="Navi";
 
             label = "NAVI";
 
@@ -122,6 +124,7 @@
 
         sim_layer {
             // ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+            display-name ="SYM";
 
             label = "SYM";
 
@@ -148,6 +151,7 @@
 
         adjust_layer {
             // ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+            display-name ="ADJ";
 
             label = "ADJ";
 
@@ -174,6 +178,7 @@
 
         tvp1_layer {
             // ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+            display-name ="TVP 1";
 
             label = "TVP 1";
 
@@ -200,6 +205,8 @@
 
         tvp2_layer {
             // ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+
+            display-name ="TVP 2";
 
             label = "TVP 2";
 
